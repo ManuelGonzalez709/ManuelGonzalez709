@@ -24,8 +24,8 @@
 
 # 📫 Cómo contactarme
 
-- 📧 manuelgonzalez.dev@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/manuel-gonzalez-4a6ab7212) *(si tienes perfil)*
+- 📧 manuel5635.mgl@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/manuel-gonzalez-4a6ab7212)
 
 ---
 
