@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lanacion.com.ar%2Ftecnologia%2Flofi-girl-ahora-tiene-un-nuevo-amigo-synth-boy-que-tiene-su-propio-canal-de-musica-en-youtube-nid12042023%2F&psig=AOvVaw0o35QsDXpClIWhHevcZ_x6&ust=1744372566298000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiThq60zYwDFQAAAAAdAAAAABA4" alt="GitHub Banner" width="100%" />
+<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # 👋 ¡Hola, soy Manuel González Pérez!
 
