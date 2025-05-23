@@ -29,8 +29,8 @@
 
 # 📫 Cómo contactarme
 
-- 📧 [manuel5365.mgl@gmail.com](mailto:manuel5365.mgl@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/manuel-gonzalez-4a6ab7212)
+- 📧 <a href="mailto:manuel5365.mgl@gmail.com">manuel5365.mgl@gmail.com</a>  
+- 💼 <a href="https://www.linkedin.com/in/manuel-gonzalez-4a6ab7212" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 
